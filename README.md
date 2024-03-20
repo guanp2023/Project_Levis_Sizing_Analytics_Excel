@@ -1,6 +1,6 @@
 Project (From Real Company) - Levi's Sizing Analytics (Excel)
 
-The sizing analytics project with Excel is from the company, Levi's (clothing retail).
+The sizing analytics project with Excel (Levi's Sizing Analytics (Excel).xlsb) is from the company, Levi's (clothing retail).
 
 The required Excel skills include:
 - VLOOKUP()
